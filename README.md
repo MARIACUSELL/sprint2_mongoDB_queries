@@ -1,10 +1,11 @@
 # sprint2_mongoDB_queries
 
+## COMENTARIS:
 - Base de dades amb el nom restaurants, guardada en un arxiu restaurants.json.
 - S'ha creat el gràfic diagrama corresponent per veure el contingut de la col.lecció restaurants que la composa.
 - Les consultes que es demanen, i que es detallen a continuació, es troben a l'arxiu restaurants.js, i es troben pel mateix ordre.
 - S'ha anat provant cada consulta des de la terminal de mongo. Instalar: npm install mongodb.
-- S'ha insertat en algunes consultes la funció pretty() per obtenir un format visual i entenedor. Es podria afegir a totes les consultes.
+- S'ha insertat en algunes consultes la funció pretty() per obtenir un format visual i entenedor. Es podria afegir a totes les consultes però s'ha fet només en algunes per fer-ho opcional.
 
 ### CONSULTES:
 Tenim una col·lecció d'Objectes Restaurant a la ciutat de Nova York, i necessitem algunes consultes... pots ajudar-nos? TOTAL 32 CONSULTES
